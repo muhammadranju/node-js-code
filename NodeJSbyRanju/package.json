@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is my fast node js web porject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ndex.js"
+  },
+  "keywords": [
+    "nodefs",
+    "node",
+    "node website",
+    "Tmy fast node-js website"
+  ],
+  "author": "Ranju Islam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
